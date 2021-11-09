@@ -12,17 +12,17 @@ Dana, in the final stae of the project, is to make sure you undestand how the fi
 
 1. First, take a look at the screenshot provided below. It shows the whole dataset with no filtering so far:
 
-![](Images/Step_01.png)
+![](static/images/Step_01.png)
 
 2. When you type a filter in any field, the tabel automagically (yes, just like magic!) gets updated with the data typed in the filter. Let's type "ca" in the state filed and see what data is returned, after I click outside the filter field or hit "tab":
 
-![](Images/Step_02.png)
+![](static/images/Step_02.png)
 
 3. Now here it comes the best part: you can use more than one filter at a time! That means, if you and to see UFO sightings in California AND in with the triangle shape, we can type "triangle" in the shape field and it will get updated.
 
 When you type a filter in any field, the table automagically (yes, just like magic!) gets updated with the data typed in the filter. Let's type "ca" in the state filed and see what data is returned:
 
-![](Images/Step_03.png)
+![](static/images/Step_03.png)
 
 Note that you can add filters in all the filter fields.
 
